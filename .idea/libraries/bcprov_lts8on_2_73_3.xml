@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcprov-lts8on-2.73.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcprov_lts8on_2_73_3/bcprov-lts8on-2.73.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
